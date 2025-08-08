@@ -4696,3 +4696,8 @@ mkdir --help
 ~$ rm file1 file2 file3
 ~$ rm -d -i my_new_directory
 
+if x%2 == 0:
+    print("x is even")
+else:
+    print("x is odd")
+
